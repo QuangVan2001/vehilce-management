@@ -1,0 +1,3 @@
+MOTORBIKE: ID: ss	Name: wigo	Color: green	Brand:toyota	Price: 25335.0	Speed: 50	License:  yes 
+MOTORBIKE: ID: ff	Name: ertiga	Color: red	Brand:suzuki	Price: 5356.0	Speed: 50	License:  yes 
+ID: se	Name: fadil	Color: black	Brand:vinfast	Price: 20000.0	Type: sport	Year: 2018
